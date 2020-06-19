@@ -1,0 +1,23 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Моя сборка GULP",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrRumiantsev/AssemblyGULP.git"
+  },
+  "author": "Rumiantsev AD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrRumiantsev/AssemblyGULP/issues"
+  },
+  "homepage": "https://github.com/AlexandrRumiantsev/AssemblyGULP#readme"
+}
