@@ -2,6 +2,27 @@ html {
   font-size: 30px;
 }
 
-h1 {
-  color: green;
+html body {
+  display: flex;
+}
+
+span {
+  font-size: 30px;
+}
+
+@media (max-width: 767px) {
+  span {
+    font-size: 20px;
+  }
+}
+@supports (-webkit-appearance:none){
+
+}
+
+ @media (max-width: 767px){
+
+@supports (-webkit-appearance:none){
+
+}
+
 }
